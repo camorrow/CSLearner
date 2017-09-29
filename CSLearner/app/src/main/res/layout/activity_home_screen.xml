@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.codymorrow.cslearner.LanguageChoices.HomeScreen"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.97">
+
+        <TextView
+            android:id="@+id/welcomeMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/home_welcome"
+            android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/welcomeSubtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_subtext"
+            android:layout_below="@+id/welcomeMessage"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:id="@+id/javaButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="58dp"
+            android:background="@android:color/holo_red_dark"
+            android:onClick="selectJava"
+            android:text="Java"
+            android:layout_below="@+id/welcomeMessage"
+            android:layout_alignLeft="@+id/cButton"
+            android:layout_alignStart="@+id/cButton" />
+
+        <Button
+            android:id="@+id/cButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/cPlusButton"
+            android:layout_alignStart="@+id/cPlusButton"
+            android:layout_below="@+id/javaButton"
+            android:layout_marginTop="15dp"
+            android:background="@android:color/holo_orange_light"
+            android:onClick="selectC"
+            android:text="C" />
+
+        <Button
+            android:id="@+id/cPlusButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/pythonButton"
+            android:layout_alignStart="@+id/pythonButton"
+            android:layout_below="@+id/cButton"
+            android:layout_marginTop="12dp"
+            android:background="@android:color/holo_orange_dark"
+            android:onClick="selectCPlus"
+            android:text="C++" />
+
+        <Button
+            android:id="@+id/pythonButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cPlusButton"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/holo_green_light"
+            android:onClick="selectPython"
+            android:text="Python" />
+
+        <Button
+            android:id="@+id/swiftButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/pythonButton"
+            android:layout_alignStart="@+id/pythonButton"
+            android:layout_below="@+id/pythonButton"
+            android:layout_marginTop="18dp"
+            android:background="@android:color/holo_purple"
+            android:onClick="selectSwift"
+            android:text="Swift" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\082560c1e63fe64e61aa8a91bd1090b7654aa425\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_292124d20f948ed3953fe4f9a7db55c57be6d3cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\52624e8496cb100505a6fc6e54f1b6c79ca1a118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_ef48e46f2612315cf7f254535bc4f17abe0fcd3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\52624e8496cb100505a6fc6e54f1b6c79ca1a118\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef48e46f2612315cf7f254535bc4f17abe0fcd3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\acba1792ed81e6641ffb7b3ad36ee1ceff397a3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cb9fe54ac06e2bbd29167b509b094e70caf04be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\1b6fc8862b80523bf4bc2034d465c52aa8159429\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59fc4e672b354548a4b44e1615d6ee188d275b30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d7be659af6401c8efb134b2fae31ddf912f650ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_60b7baf0fa8f2d799dba7a56c6066c4a694cd153\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\e428bb07d64cc5e62ba6f1352e89186303d6bf3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_f4d25c7682b09f85950a05e258c01b40aa1f41b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_60b7baf0fa8f2d799dba7a56c6066c4a694cd153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\1b6fc8862b80523bf4bc2034d465c52aa8159429\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_59fc4e672b354548a4b44e1615d6ee188d275b30.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\e428bb07d64cc5e62ba6f1352e89186303d6bf3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4d25c7682b09f85950a05e258c01b40aa1f41b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5118eafeec6b7eaab5e6aad2ee4aec802eb9075">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d3c6677db2e1aa1fa840e39be2e7a88dcf92d1c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\c8905f7243790eb005e2f2fa3255413f289631aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d46a00d05b05b0d1ea9610b4d591ec4b4334191b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\c8905f7243790eb005e2f2fa3255413f289631aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_d46a00d05b05b0d1ea9610b4d591ec4b4334191b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\acba1792ed81e6641ffb7b3ad36ee1ceff397a3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_0cb9fe54ac06e2bbd29167b509b094e70caf04be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\8fba6550c7c2c0629b471d36e07028ba93a224e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_759cd852954ae1d0ff3a445fbfd0fc6a95e1dc79.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\8fba6550c7c2c0629b471d36e07028ba93a224e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_759cd852954ae1d0ff3a445fbfd0fc6a95e1dc79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\51fd8102bb2b528d6caf534d5de6a303fe72fbad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e81dd0d4bad988d5ea9785cb1c437bb875926f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_428bfb723cf8a9aa5b85041e4d2df87137c3b7dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_428bfb723cf8a9aa5b85041e4d2df87137c3b7dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\24f360ba8e75fb1d26fc4513d78a33e8f0342f47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_79667e58f5ce34529ed0e88769682b914e3c0942.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\ead75aa742fd8532ffda191843a6670a3704d2cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be3ff06dcffd7f806dffff92685f41272480004f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\24f360ba8e75fb1d26fc4513d78a33e8f0342f47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79667e58f5ce34529ed0e88769682b914e3c0942\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\ead75aa742fd8532ffda191843a6670a3704d2cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_be3ff06dcffd7f806dffff92685f41272480004f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\a8d2d7677e12e11e3438ef8ad6f5c12aa8d623fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d886b0c6227a81f47a2318f252d50e59e690901\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\3ca24f8b376e42083c79f85ab41d37e2f57d2254\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_051384a90d2aab3bf08ea07d56e36f4a16806160.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\3ca24f8b376e42083c79f85ab41d37e2f57d2254\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_051384a90d2aab3bf08ea07d56e36f4a16806160\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\51fd8102bb2b528d6caf534d5de6a303fe72fbad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_8e81dd0d4bad988d5ea9785cb1c437bb875926f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\708eff03715425b584e0665d5a2d995c4998899a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_7b4283b8e8bdb2452526394dd84a2a1053a73ccb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\708eff03715425b584e0665d5a2d995c4998899a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b4283b8e8bdb2452526394dd84a2a1053a73ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cody Morrow\.android\build-cache\082560c1e63fe64e61aa8a91bd1090b7654aa425\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_292124d20f948ed3953fe4f9a7db55c57be6d3cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cody Morrow\.android\build-cache\a8d2d7677e12e11e3438ef8ad6f5c12aa8d623fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Cody Morrow\AndroidStudioProjects\CSLearner\app\build\intermediates\pre-dexed\debug\classes_3d886b0c6227a81f47a2318f252d50e59e690901.jar" />
+    </item>
+
+</items>

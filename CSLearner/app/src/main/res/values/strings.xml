@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CSLearner</string>
+    <string name="home_subtext">Tap a Language you wish to know more about to get started</string>
+    <string name="home_welcome">Welcome to CSLearner!</string>
+    <string name="initial_language_info_header">About %1$s</string>
+    <string name="context_language_info_header">How %1$s differs from %2$s</string>
+    <string name="second_language_selection_hint">If you don\'t have much familiarity
+        with the other languages available, or you want to explore %1$s in its own context,
+        select %1$s again</string>
+
+    <string name="concepts_title">%1$s Concepts</string>
+    <string name="variables_title">%1$s Variables</string>
+    <string name="conditionals_title">%1$s Conditionals</string>
+    <string name="loops_title">%1$s Loops</string>
+    <string name="methods_title">%1$s Methods</string>
+
+    <string name="concepts_subtitle1">What Makes %1$s Different From %2$s?</string>
+    <string name="variables_subtitle1">Variable Declaration in %1$s</string>
+    <string name="conditionals_subtitle1">Conditionals in %1$s</string>
+    <string name="loops_subtitle1">Loops in %1$s</string>
+    <string name="methods_subtitle1">Methods in %1$s</string>
+
+    <string-array name="menu_options">
+        <item>Concepts</item>
+        <item>Vairables</item>
+        <item>Conditionals</item>
+        <item>Loops</item>
+        <item>Methods</item>
+    </string-array>
+</resources>
