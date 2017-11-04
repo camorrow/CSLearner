@@ -15,16 +15,41 @@
     <string name="methods_title">%1$s Methods</string>
 
     <string name="concepts_subtitle1">What Makes %1$s Different From %2$s?</string>
-    <string name="variables_subtitle1">Variable Declaration in %1$s</string>
-    <string name="conditionals_subtitle1">Conditionals in %1$s</string>
-    <string name="loops_subtitle1">Loops in %1$s</string>
-    <string name="methods_subtitle1">Methods in %1$s</string>
+    <string name="concepts_no_context_subtitle1">What makes %1$s worth learning?</string>
+    <string name="variables_subtitle1">Variable Declaration in %1$s compared to %2$s</string>
+    <string name="variables_no_context_subtitle1">Variable Declaration in %1$s</string>
+    <string name="variables_subtitle2">Declaring variable types in some languages can be implicit,
+        the compiler in this case is in charge of determining the type</string>
+    <string name="conditionals_subtitle1">Conditionals in %1$s compared to %2$s</string>
+    <string name="conditionals_no_context_subtitle1">Conditionals in %1$s</string>
+    <string name="loops_subtitle1">While Loops in %1$s compared to %2$s</string>
+    <string name="loops_subtitle2">While Loops with guaranteed first run in %1$s compared to %2$s</string>
+    <string name="loops_subtitle3">For Loops in %1$s compared to %2$s</string>
+    <string name="loops_no_context_subtitle1">While Loops in %1$s</string>
+    <string name="loops_no_context_subtitle2">While Loops with guaranteed first run in %1$s</string>
+    <string name="loops_no_context_subtitle3">For Loops in %1$s</string>
+    <string name="methods_subtitle1">Functions in %1$s compared to %2$s</string>
+    <string name="methods_no_context_subtitle1">Functions in %1$s</string>
+    <string name="methods_subtitle2">
+        Functions and methods are obviously as numerous as the needs developers conceive.
+        This example is meant to emphasize the key elements needed to produce a very simple function
+        multiplying two numbers together. While functions and methods are often used interchangeably
+        in conversation, technically methods are functions that are associated with a particular object
+        and are thus absent from C/C++ entirely. Likewise, some Object Oriented languages like Java
+        require all functions to be associated with an object. The operator \"static\" is then designed
+        to make the function accessible from any context.</string>
+
+    <string name="database_online">To access this, bring your phone online</string>
+
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
 
     <string-array name="menu_options">
+        <item>Overview</item>
         <item>Concepts</item>
-        <item>Vairables</item>
+        <item>Variables</item>
         <item>Conditionals</item>
         <item>Loops</item>
-        <item>Methods</item>
+        <item>Functions/Methods</item>
     </string-array>
 </resources>

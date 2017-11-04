@@ -29,6 +29,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/home_subtext"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:layout_below="@+id/welcomeMessage"
             android:layout_centerHorizontal="true" />
 
@@ -36,7 +38,7 @@
             android:id="@+id/javaButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="58dp"
+            android:layout_marginTop="80dp"
             android:background="@android:color/holo_red_dark"
             android:onClick="selectJava"
             android:text="Java"
